@@ -1,0 +1,15 @@
+![](Rplot.png)
+
+For our first assignment, we were challenged to run a program labeled Fall.R from the class' repository on R Studio and change the color of the generative art. I decided to go with "dodgerblue1" as it reminded me of the Texas bluebonnets, our state's official flower.
+
+**Here are a few other generative art pieces I found!**
+
+![](images/download.jpg){fig-align="center"}
+
+Figure 1: This image can be found on https://www.instructables.com/Exploring-Generative-Art-How-to-Create-Stunning-Ar/ by a user named Stratofortress. They explain the history of generative art and how to create it.
+
+![](images/images-01.jpg){fig-align="center"}
+
+Figure 2: This one is created by the Generative Artists Club and can be found on genartclub.com
+
+In the assigned book of the week, Information Visualization Perception for Design by Colin Ware, an interesting chart that I found was on page 85 over Figure 3.14. When looking at the pictures above, especially Figure 1 from Instructables, it shows how drastically different our perceptions shift due to given light. This figure displayed on my laptop in my windowless office looks drastically different than it might in a museum full of windows and spotlights. It is important to keep in mind as color is a determining factor in the effectiveness of data.
