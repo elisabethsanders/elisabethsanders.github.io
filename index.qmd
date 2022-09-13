@@ -1,0 +1,26 @@
+---
+title: "Elisabeth Sanders"
+---
+
+I am a graduate student at the University of Texas at Dallas studying Social Data Analytics and Applied Sociology.
+
+### More Information
+
+Interests:
+
+-   Human Resource Management
+-   Data Science
+
+### Contact Me!
+
+[my email!](mailto:exs210006@utdallas.edu)
+
+[my website!](https://elisabethsanders.github.io)
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
