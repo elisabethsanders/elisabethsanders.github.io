@@ -4,13 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "plot(iris)"
+    "text": "all data projects are posted here!\n\nplot(iris)"
+  },
+  {
+    "objectID": "assign01.html",
+    "href": "assign01.html",
+    "title": "Fall Leaf",
+    "section": "",
+    "text": "For our first assignment, we were challenged to run a program labeled Fall.R from the class’ repository on R Studio and change the color of the generative art. I decided to go with “dodgerblue1” as it reminded me of the Texas bluebonnets, our state’s official flower.\nHere are a few other generative art pieces I found!\n\n\n\n\n\nFigure 1: This image can be found on https://www.instructables.com/Exploring-Generative-Art-How-to-Create-Stunning-Ar/ by a user named Stratofortress. They explain the history of generative art and how to create it.\n\n\n\n\n\nFigure 2: This one is created by the Generative Artists Club and can be found on genartclub.com\nIn the assigned book of the week, Information Visualization Perception for Design by Colin Ware, an interesting chart that I found was on page 85 over Figure 3.14. When looking at the pictures above, especially Figure 1 from Instructables, it shows how drastically different our perceptions shift due to given light. This figure displayed on my laptop in my windowless office looks drastically different than it might in a museum full of windows and spotlights. It is important to keep in mind as color is a determining factor in the effectiveness of data."
+  },
+  {
+    "objectID": "assign02.html",
+    "href": "assign02.html",
+    "title": "Assignment Two: Paul Mitchel’s R Graphics",
+    "section": "",
+    "text": "However, if you run the function line-by-line, here are the results:\n\n\nWhat’s the difference?\nIt seems as though there were details and an entire chart missing in comparison to running the entire function at once."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Elisabeth Sanders",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "More Information\nInterests:\n\nHuman Resource Management\nData Science\n\n\n\nContact Me!\nmy email!\nmy website!\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\npar(family=\"sans\")\nplot(iris, pch=20, cex=.75, col=\"steelblue\")"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "welcome to elisabeth sanders' website!",
+    "section": "",
+    "text": "plot(Titanic)\n\n\n\n\nMy research areas include:\n\nDiversity in the Workplace\nSocial Stratification"
   }
 ]
