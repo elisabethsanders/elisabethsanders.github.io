@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "elisabeth’s data science blog",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 18, 2022\n\n\nelisabeth sanders\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 15, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "plot(Titanic)\n\n\n\n\nPaul Mitchel R Graphs\nFor our second assignment, we were asked to run a program by Paul Mitchel in which showcases his research by means of charts and graphs. The information, without the functions being ran line by line, is shown below.\n\n\n\n\n\nHowever, if you run the function line-by-line, here are the results:\n\n\n\n\n\n\n\n\n\n\nWhat’s the difference?\nIt seems as though there were details and an entire chart missing in comparison to running the entire function at once.\n\nHappy Planet Index\nTo practice how to use functions and how to plot them, we will use the data given by Happy Planet Index. The data is found on our class’ github page as well as on the website http://happyplanetindex.org.\nFor Par ( ) :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe other functions were extremely hard for me to figure out and after a week of trying, I gave up honestly! I will keep trying this upcoming week to catch up."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
