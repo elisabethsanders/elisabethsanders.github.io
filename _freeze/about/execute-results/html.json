@@ -1,0 +1,16 @@
+{
+  "hash": "864a64f33b77518ee99b65e9e4aa6695",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\n---\n\n\n### about this website:\n\nall of my data projects are posted here!\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(iris)\n```\n\n::: {.cell-output-display}\n![](about_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

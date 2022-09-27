@@ -1,0 +1,16 @@
+{
+  "hash": "f32a2a4d01f2470147f5ca056c71fb97",
+  "result": {
+    "markdown": "---\ntitle: \"Elisabeth Sanders\"\n---\n\n\nI am a graduate student at the University of Texas at Dallas studying Social Data Analytics and Applied Sociology.\n\n![](images/liz.png)\n\n### More Information\n\nInterests:\n\n-   Human Resource Management\n-   Data Science\n\n### Contact Me!\n\n[my email!](mailto:exs210006@utdallas.edu)\n\n[my website!](https://elisabethsanders.github.io)\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\npar(family=\"sans\")\nplot(iris, pch=20, cex=.75, col=\"steelblue\")\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
