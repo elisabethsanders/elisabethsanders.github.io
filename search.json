@@ -16,9 +16,9 @@
   {
     "objectID": "assign02.html",
     "href": "assign02.html",
-    "title": "Assignment Two: Paul Mitchel’s R Graphics",
+    "title": "Assignment Two: Paul Murrell’s R Graphics",
     "section": "",
-    "text": "However, if you run the function line-by-line, here are the results:\n\n\nWhat’s the difference?\nIt seems as though there were details and an entire chart missing in comparison to running the entire function at once."
+    "text": "However, if you run the function line-by-line, here are the results:\n\n\nWhat’s the difference?\nIt seems as though there were details and an entire chart missing in comparison to running the entire function at once.\n\nHappy Planet Index\nTo practice how to use functions and how to plot them, we will use the data given by Happy Planet Index. The data is found on our class’ github page as well as on the website http://happyplanetindex.org.\nfor the par () function:"
   },
   {
     "objectID": "index.html",
