@@ -1,0 +1,35 @@
+---
+title: "Assignment Two: Paul Murrell's R Graphics"
+---
+
+For our second assignment, we were asked to run a program by Paul Murrell in which showcases his research by means of charts and graphs. The information, without the functions being ran line by line, is shown below.
+
+![](Rplot01.png)
+
+*However, if you run the function line-by-line, here are the results:*
+
+![](2.png)
+
+![](7.png)
+
+What's the difference?
+
+It seems as though there were details and an entire chart missing in comparison to running the entire function at once.
+
+### Happy Planet Index
+
+To practice how to use functions and how to plot them, we will use the data given by Happy Planet Index. The data is found on [our class' github page](https://github.com/datageneration/datavisualization/blob/master/data/hpi2016.csv) as well as on the website <http://happyplanetindex.org>.
+
+for the par () function:
+
+![](images/par%201.png){fig-align="center"}
+
+![](images/par%202.png){fig-align="center"}
+
+![](images/par%203.png){fig-align="center"}
+
+![](images/par%204.png){fig-align="center"}
+
+![](images/par%205.png){fig-align="center"}
+
+![](images/par%206.png){fig-align="center"}

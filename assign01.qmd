@@ -1,3 +1,7 @@
+---
+title: "Assignment 1: Fall Leaf"
+---
+
 ![](Rplot.png)
 
 For our first assignment, we were challenged to run a program labeled Fall.R from the class' repository on R Studio and change the color of the generative art. I decided to go with "dodgerblue1" as it reminded me of the Texas bluebonnets, our state's official flower.

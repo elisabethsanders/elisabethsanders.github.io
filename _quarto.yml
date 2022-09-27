@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "welcome to elisabeth sanders' website!"
+  navbar:
+    left:
+      - href: index.qmd
+        text: home
+      - href: about.qmd
+        text: about
+      - href: research.qmd
+        text: research
+      - text: assignments
+        menu:
+         - assign01.qmd
+         - assign02.qmd
+         - assign03.qmd
+      - href: blog.qmd
+        text: blog
+      - href: project.qmd
+        text: project
+
+format:
+  html: 
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+

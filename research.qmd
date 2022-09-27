@@ -1,0 +1,12 @@
+#### Elisabeth's Research Page
+
+
+```{r}
+plot(Titanic)
+```
+
+My research areas include:
+
+-   Diversity in the Workplace
+
+-   Social Stratification

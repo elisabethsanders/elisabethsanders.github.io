@@ -4,6 +4,8 @@ title: "Elisabeth Sanders"
 
 I am a graduate student at the University of Texas at Dallas studying Social Data Analytics and Applied Sociology.
 
+![](images/liz.png)
+
 ### More Information
 
 Interests:
@@ -22,5 +24,6 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-1 + 1
+par(family="sans")
+plot(iris, pch=20, cex=.75, col="steelblue")
 ```
