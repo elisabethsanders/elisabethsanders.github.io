@@ -40,5 +40,12 @@
     "title": "welcome to elisabeth sanders' website!",
     "section": "",
     "text": "plot(Titanic)\n\n\n\n\nMy research areas include:\n\nDiversity in the Workplace\nSocial Stratification"
+  },
+  {
+    "objectID": "assign04.html",
+    "href": "assign04.html",
+    "title": "Assignment Four: Hackathon",
+    "section": "",
+    "text": "My team decided on revisiting the “Happy Planet Index” data.\nAfter inputting library(tidyverse) then having the program to analyze the HPI data, we got a summary that looked like this:\n\n\n\n\n\nAfter setting up the original charts with these codes:\n\n\ninitial charts:\nWe were able to create these charts:\n\n\n\n\n\n\nTesting Data\n\n\n\n\n\nThis is a basic histogram we were able to create\n\n\n\n\n\nThen by changing the theme() function:\n\n\n\n\n\nWe got the initial chart to look like:\n\n\n\n\n\nWhich we did not like aesthetically. After changing a few things,\n\n\n\n\n\nWe were able to all agree on this chart as the final product:\n\n\n\nchanged themes\n\ntheme_classic\n\n\n\n\n\n\n\ntheme_drawline\n\n\n\n\n\n\n\ntheme_light\n\n\n\n\n\nUsing the same methods for the dotted chart we created before:\n\n\n\n\n\n\n\n\n\n\nWe created the theme_element:\n\n\n\n\n\n\n\n\nultimate result:\nTo result to theme_light along with theme_element:"
   }
 ]
