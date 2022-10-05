@@ -4,20 +4,48 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "all data projects are posted here!\n\nplot(iris)"
+    "text": "all of my data projects are posted here!\n\nplot(iris)"
   },
   {
     "objectID": "assign01.html",
     "href": "assign01.html",
-    "title": "welcome to elisabeth sanders' website!",
+    "title": "Assignment One: Fall Leaf",
     "section": "",
     "text": "For our first assignment, we were challenged to run a program labeled Fall.R from the class’ repository on R Studio and change the color of the generative art. I decided to go with “dodgerblue1” as it reminded me of the Texas bluebonnets, our state’s official flower.\nHere are a few other generative art pieces I found!\n\n\n\n\n\nFigure 1: This image can be found on https://www.instructables.com/Exploring-Generative-Art-How-to-Create-Stunning-Ar/ by a user named Stratofortress. They explain the history of generative art and how to create it.\n\n\n\n\n\nFigure 2: This one is created by the Generative Artists Club and can be found on genartclub.com\nIn the assigned book of the week, Information Visualization Perception for Design by Colin Ware, an interesting chart that I found was on page 85 over Figure 3.14. When looking at the pictures above, especially Figure 1 from Instructables, it shows how drastically different our perceptions shift due to given light. This figure displayed on my laptop in my windowless office looks drastically different than it might in a museum full of windows and spotlights. It is important to keep in mind as color is a determining factor in the effectiveness of data."
+  },
+  {
+    "objectID": "assign02.html",
+    "href": "assign02.html",
+    "title": "Assignment Two: Paul Murrell’s R Graphics",
+    "section": "",
+    "text": "However, if you run the function line-by-line, here are the results:\n\n\nWhat’s the difference?\nIt seems as though there were details and an entire chart missing in comparison to running the entire function at once.\n\nHappy Planet Index\nTo practice how to use functions and how to plot them, we will use the data given by Happy Planet Index. The data is found on our class’ github page as well as on the website http://happyplanetindex.org.\nfor the par () function:"
+  },
+  {
+    "objectID": "assign03.html",
+    "href": "assign03.html",
+    "title": "Assignment Three: Anscombe",
+    "section": "",
+    "text": "Data Summary:\n\n\n\n\n\n\n\n\n\n\n\n\nSimple Summary:\n\n\n\n\n\n\n\nCreate Four Model Objects:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFancy Version (per help file):\n\n\n\n\n\n\n\nPlot Using For Loop:\n\n\n\n\n\n\n\n\n\n\n\n\nPreparing for the Plots:\nI added the following to the R file:\n\n\n\nPlot Charts Using for Loop:\n\n\n\n\n\n\n\nComparing the Regression Models\nThe first regression data set is a high degree of positive correlation. It is a positive linear scatter-plot graph. This, in the next graph, turns into a curvi-linear scatter-plot graph that begins on a positive incline but turns into a negative one as the curve progresses. The third regression model turns into an almost perfect positive correlation linear line, and the last graph turns into a graph that has no correlation at all.\n\n\nComparing Different Ways to Create the Plots\n\nColor\n\n\n\n\n\n\n\n\n\n\nYou can change the data sets by color by editing the “col” function! Using too many colors, however, may be distracting and hard to follow for those seeking to easily follow the data provided.\n\n\nLine Types\n\n\n\n\n\nYou can change the line type by using the “lty” function.\n\n\nPlot Characters\n\n\n\n\n\n\n\n\n\n\nYou can edit the plot characters by using the “cex” and the “pch” function! The plotting characters above are triangles by inputting pch=2.\n\n\n\nCan You Fine-tune the charts without using other packages?\nYes, you can. As you can see above, the regression models can be edited by color, font, plot character shape, line width, and others. The possibilities are truly endless, and the choices become larger when there are added packages. On our last assignment, Murrell, the data imported from Happy Planet Index could be edited with several functions including par, axis, mtext, etc. all without adding any other package.\n\n\nHow about with GGPlot2?\n\n\n\n\n\nYes you can! You can change ggplots easily. This is the coding I used for the following example!"
+  },
+  {
+    "objectID": "assign04.html",
+    "href": "assign04.html",
+    "title": "Assignment Four: Hackathon",
+    "section": "",
+    "text": "My team decided on revisiting the “Happy Planet Index” data.\nAfter inputting library(tidyverse) then having the program to analyze the HPI data, we got a summary that looked like this:\n\n\n\n\n\nAfter setting up the original charts with these codes:\n\n\ninitial charts:\nWe were able to create these charts:\n\n\n\n\n\n\nTesting Data\n\n\n\n\n\nThis is a basic histogram we were able to create\n\n\n\n\n\nThen by changing the theme() function:\n\n\n\n\n\nWe got the initial chart to look like:\n\n\n\n\n\nWhich we did not like aesthetically. After changing a few things,\n\n\n\n\n\nWe were able to all agree on this chart as the final product:\n\n\n\nchanged themes\n\ntheme_classic\n\n\n\n\n\n\n\ntheme_drawline\n\n\n\n\n\n\n\ntheme_light\n\n\n\n\n\nUsing the same methods for the dotted chart we created before:\n\n\n\n\n\n\n\n\n\n\nWe created the theme_element:\n\n\n\n\n\n\n\n\nultimate result:\nTo result to theme_light along with theme_element:"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Elisabeth Sanders",
     "section": "",
-    "text": "More Information\nInterests:\n\nHuman Resource Management\nData Science\n\n\n\nContact Me!\nmy email!\nmy website!\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "More Information\nInterests:\n\nHuman Resource Management\nData Science\n\n\n\nContact Me!\nmy email!\nmy website!\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\npar(family=\"sans\")\nplot(iris, pch=20, cex=.75, col=\"steelblue\")"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "welcome to elisabeth sanders' website!",
+    "section": "",
+    "text": "plot(Titanic)\n\n\n\n\nMy research areas include:\n\nDiversity in the Workplace\nSocial Stratification"
   }
 ]
