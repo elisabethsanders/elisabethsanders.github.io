@@ -2,7 +2,7 @@
 title: "Elisabeth Sanders"
 ---
 
-I am a graduate student at the University of Texas at Dallas studying Social Data Analytics and Applied Sociology.
+I am a graduate student at the University of Texas at Dallas studying Social Data Analytics and Applied Sociology with hopes of working in human resource, finance, or non-profit management.
 
 ![](images/liz.png)
 
