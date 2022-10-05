@@ -16,6 +16,7 @@ website:
          - assign01.qmd
          - assign02.qmd
          - assign03.qmd
+         - assign04.qmd
       - href: blog.qmd
         text: blog
       - href: project.qmd
