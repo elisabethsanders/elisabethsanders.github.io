@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1: Fall Leaf"
+title: "Assignment One: Fall Leaf"
 ---
 
 ![](Rplot.png)
