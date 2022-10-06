@@ -1,0 +1,74 @@
+---
+title: "Assignment Four: Hackathon"
+editor: visual
+---
+
+This week was Hackathon week and each group was challenged to use any past data and recreate the information into visually-pleasing charts and graphs in less than 24 hours.
+
+My team decided on revisiting the "Happy Planet Index" data.
+
+After inputting library(tidyverse) then having the program to analyze the HPI data, we got a summary that looked like this:
+
+![](a4stuff1.png){fig-align="center"}
+
+After setting up the original charts with these codes:
+
+![](a4stuff2.png){fig-align="center"}
+
+### initial charts:
+
+We were able to create these charts:
+
+![](Rplot10.png){fig-align="center"}
+
+##### Testing Data
+
+![](coding1.png){fig-align="center"}
+
+This is a basic histogram we were able to create
+
+![](chart1.png){fig-align="center"}
+
+Then by changing the theme() function:
+
+![](coding3.png){fig-align="center"}
+
+We got the initial chart to look like:
+
+![](chart2.png){fig-align="center"}
+
+Which we did not like aesthetically. After changing a few things,
+
+![](images/Screenshot%20(30)-02.png){fig-align="center"}
+
+We were able to all agree on this chart as the final product:
+
+### changed themes
+
+##### theme_classic
+
+![](Rplot13.png){fig-align="center"}
+
+##### theme_drawline
+
+![](Rplot14.png){fig-align="center"}
+
+##### theme_light
+
+![](Rplot15.png){fig-align="center"}
+
+Using the same methods for the dotted chart we created before:
+
+![](images/Screenshot%20(31)-01.png){fig-align="center"}
+
+![](images/Screenshot%20(30)-03.png){fig-align="center"}
+
+We created the theme_element:
+
+![](Rplot16.png){fig-align="center"}
+
+### ultimate result:
+
+To result to theme_light along with theme_element:
+
+![](Rplot17.png){fig-align="center"}
