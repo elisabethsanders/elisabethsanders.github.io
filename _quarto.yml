@@ -17,10 +17,14 @@ website:
          - assign02.qmd
          - assign03.qmd
          - assign04.qmd
+         - assign05.qmd
       - href: blog.qmd
         text: blog
-      - href: project.qmd
+      - href: Final Project Storyboard.qmd
         text: project
+      - href: Final Project Storyboard.qmd
+        text: Final Project Storyboard
+      
 
 format:
   html: 
