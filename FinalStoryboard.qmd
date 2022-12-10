@@ -249,6 +249,8 @@ dygraph(speed_dating3) %>% dyRangeSelector()
 
 ### Data showcase 5: Interest Correlation Across Fields
 
+![](images/5.png){fig-align="center"}
+
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(ggplot2)
 library(gganimate)
@@ -288,8 +290,6 @@ graph2.animation= graph2 +
 
 graph2.animation
 ```
-
-![](images/Screenshot%20(68).png){fig-align="center"}
 
 #### Narrative
 
