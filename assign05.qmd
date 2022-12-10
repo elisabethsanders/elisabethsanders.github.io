@@ -85,6 +85,7 @@ Which gave us a detailed summary of every point in which explained its minimum, 
     There were 27 warnings (use warnings() to see them)
 
 #### 
+
 ![](Rplot19.png)
 
 #### circular area chart:

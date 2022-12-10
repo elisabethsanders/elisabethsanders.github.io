@@ -4,7 +4,7 @@ title: "About"
 
 ### about this website:
 
-all of my data projects for epps 6356 are posted here!
+all of my data projects for epps 6356 are posted here:
 
 ```{r}
 plot(iris)
