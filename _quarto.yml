@@ -18,11 +18,12 @@ website:
          - assign03.qmd
          - assign04.qmd
          - assign05.qmd
+         - FinalStoryboard.qmd
       - href: blog.qmd
         text: blog
-      - href: Final Project Storyboard.qmd
+      - href: FinalStoryboard.qmd
         text: project
-      - href: Final Project Storyboard.qmd
+      - href: FinalStoryboard.qmd
         text: Final Project Storyboard
       
 
